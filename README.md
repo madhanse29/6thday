@@ -88,3 +88,6 @@ fname = "Guvi";
 lname = "geek"
 let name = fname+lname;
 alert("hello"+" " + name); ......
+
+
+BALANCE QUESTIONS WILL BE SOLVED BY ME ....
